@@ -39,6 +39,7 @@ git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project
 ```
 
 # 📰 INSTRUCTION/GUIDE NOTE
+
 ```python
 
 - TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `[check generated email]`.
@@ -50,3 +51,4 @@ git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project
 - FB COMMENT - The setup is similar to FB Follow, but always remember that it's possible to get your account banned or locked.
 
 ```
+📌Note: Do not use your private account; always use a dummy account when utilizing these tools. Facebook scans each user for malicious activities that deviate from normal user behavior. Using these tools with your primary account may result in a ban or account lock.

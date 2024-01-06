@@ -15,7 +15,6 @@ FACEBOOK TOOLS DEVELOPED BY JOHN EDWARD BEARNEZA
 
 <img src="Screenshot/415245996_1061855101525803_1434845471598868491_n.jpg" style="height: 220px; width: 200px"></img>
 
-
 # 📰 HOW TO SETUP
 1. Download Termux from F-Droid.
 2. Install Termux on your device.
@@ -25,9 +24,8 @@ git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project
 ```
 4. Paste the copied command into your Termux terminal and press Enter.
 
+# 💥 INSTRUCTION/GUIDE NOTE
 ```python
-💥 INSTRUCTION/GUIDE NOTE:
-
 1. TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `check generated email`.
 
 2. FB SHARE - First, create an account using a temporary email. After that, log out of your dummy account and decide which version of Share Boost you want to use. For me, version 2 is preferable since I don't need to obtain a token. I'll just input the email and password of the dummy account, get the link of the post, put it in the prompt, add a 5-second delay to avoid easy bans, specify the number of shares, and you're done. Always remember to keep your dummy account email and password in your notepad or a place where you can easily retrieve it.

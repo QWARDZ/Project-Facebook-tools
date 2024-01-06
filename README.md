@@ -24,7 +24,9 @@ FACEBOOK TOOLS DEVELOPED BY JOHN EDWARD BEARNEZA
 
 ## 📷 SCREENSHOTS
 
-<img src="Screenshot.jpg" style="height: 220px; width: 200px"></img>
+<img src="Screenshots/screenshot1 (1).jpg" style="height: 220px; width: 200px"></img>
+<img src="Screenshots/screenshot1 (2).jpg" style="height: 220px; width: 200px"></img>
+<img src="Screenshots/screenshot1 (3).jpg" style="height: 220px; width: 200px"></img>
 
 # 🗃HOW TO RUN THE SCRIPT?
 1. `Download Termux from` (https://f-droid.org/packages/com.termux)

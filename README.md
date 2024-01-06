@@ -1,21 +1,21 @@
 # 🚀  PROJECT-FB-TOOLS
 FACEBOOK TOOLS DEVELOPED BY JOHN EDWARD BEARNEZA
 
-- TEMPORARY EMAIL - Generate your email that you can use for the verification code on Facebook.
-- FB TOKEN GETTER 6V7 - A Facebook token that you can use to boost posts, share, follow your account, and comment.
-- FB BOOST SHARE POST V1 - Share a post using the FB Token 6v7.
-- FB BOOST SHARE POST V2 - Share a post using an email and password.
-- FB BOOST FOLLOW V1 - Follow your account using the FB Token 6v7.
-- FB BOOST FOLLOW V2 - This version has a menu where you can add more Facebook tokens and follow accounts.
-- FB BOOST COMMENT - Comment on posts as much as you want.
-- FB BOOST REACTION - Still in the process of making the code.
-- ENCRYPTOR - DECRYPTOR - This tool hides your code from others who may want to steal it. It is only available in Bash and Python.
+- Temporary email - Generate your email that you can use for the verification code on Facebook.
+- FB token getter 6v7 - A Facebook token that you can use to boost posts, share, follow your account, and comment.
+- FB boost share post v1 - Share a post using the FB Token 6v7.
+- FB boost share post v2 - Share a post using an email and password.
+- FB boost follow v1 - Follow your account using the FB Token 6v7.
+- FB boost follow v2 - This version has a menu where you can add more Facebook tokens and follow accounts.
+- FB boost comment - Comment on posts as much as you want.
+- FB boost reaction - Still in the process of making the code.
+- Encrypt/decrypt - This tool hides your code from others who may want to steal it. It is only available in Bash and Python.
 
 # 📷 SCREENSHOTS
 
 <img src="Screenshot/415245996_1061855101525803_1434845471598868491_n.jpg" style="height: 220px; width: 200px"></img>
 
-# 📰 HOW TO SETUP
+# 🗃HOW TO RUN THE SCRIPT?
 1. Download Termux from F-Droid.
 2. Install Termux on your device.
 3. Open Termux and copy the following command:
@@ -24,7 +24,7 @@ git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project
 ```
 4. Paste the copied command into your Termux terminal and press Enter.
 
-# 💥 INSTRUCTION/GUIDE NOTE
+# 📰 INSTRUCTION/GUIDE NOTE
 ```python
 1. TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `check generated email`.
 

@@ -21,7 +21,9 @@ FACEBOOK TOOLS DEVELOPED BY JOHN EDWARD BEARNEZA
 git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project-Facebook-tools && pkg update && pkg upgrade && apt update && apt upgrade && pkg install python -y && pip install requests colorama beautifulsoup4 prettytable && npm install -g bash-obfuscate && pkg install git python nano && python facebook-tool.py
 ```
 ```python
-INSTRUCTION/GUIDE NOTE:
+
+# 💥 INSTRUCTION/GUIDE NOTE:
+
 1. TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `check generated email`.
 
 2. FB SHARE - First, create an account using a temporary email. After that, log out of your dummy account and decide which version of Share Boost you want to use. For me, version 2 is preferable since I don't need to obtain a token. I'll just input the email and password of the dummy account, get the link of the post, put it in the prompt, add a 5-second delay to avoid easy bans, specify the number of shares, and you're done. Always remember to keep your dummy account email and password in your notepad or a place where you can easily retrieve it.

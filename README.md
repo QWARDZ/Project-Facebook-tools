@@ -15,13 +15,17 @@ FACEBOOK TOOLS DEVELOPED BY JOHN EDWARD BEARNEZA
 
 <img src="Screenshot/415245996_1061855101525803_1434845471598868491_n.jpg" style="height: 220px; width: 200px"></img>
 
-# 📰 HOW TO SETUP
 
+# 📰 HOW TO SETUP
+1. Download Termux from F-Droid.
+2. Install Termux on your device.
+3. Open Termux and copy the following command:
 ```python
 git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project-Facebook-tools && pkg update && pkg upgrade && apt update && apt upgrade && pkg install python -y && pip install requests colorama beautifulsoup4 prettytable && npm install -g bash-obfuscate && pkg install git python nano && python facebook-tool.py
 ```
-```python
+4. Paste the copied command into your Termux terminal and press Enter.
 
+```python
 💥 INSTRUCTION/GUIDE NOTE:
 
 1. TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `check generated email`.

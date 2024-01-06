@@ -22,7 +22,7 @@ git clone https://github.com/jebearneza/Project-Facebook-tools.git && cd Project
 ```
 ```python
 
-# 💥 INSTRUCTION/GUIDE NOTE:
+💥 INSTRUCTION/GUIDE NOTE:
 
 1. TEMPORARY EMAIL - Generate an email using: `gen tag [example: gen edward]`. To check the email, use: `check generated email`.
 
